@@ -29,4 +29,5 @@ public class TransScene : MonoBehaviour
         TouchingObj.gameObject.SetActive(true);
     }
 
+
 }
