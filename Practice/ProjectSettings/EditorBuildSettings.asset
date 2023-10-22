@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1.Scene/GwanYoung/Title.unity
+    guid: 59fc38fc627bae5459626032dda94b9e
+  - enabled: 1
+    path: Assets/1.Scene/GwanYoung/Rule.unity
+    guid: 2fddb3289cf0d524ab27363c69f3344f
   m_configObjects: {}
